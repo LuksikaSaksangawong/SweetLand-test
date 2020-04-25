@@ -3,4 +3,6 @@
 <head>
 	<title>Test for GITHUB mini course</title>
 </head>
-<body></body>
+<body>
+	<h1></h1>Hello world
+</body>
