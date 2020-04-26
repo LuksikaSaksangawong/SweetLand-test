@@ -4,5 +4,6 @@
 	<title>Test for GITHUB mini course</title>
 </head>
 <body>
-	<h1></h1>Hello world
+	<h1>Hello world</h1>
+	<h2>Welcome to my website</h2>
 </body>
